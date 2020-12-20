@@ -1,0 +1,8 @@
+-a: muestra todos los archivos
+-l: muestra los detalles de la lista
+-d: muestra la lista de directorio
+-h: muestra el tamaño de los archivos
+-i: muestra inodos de cada archivos
+-R: muestra subdirectorios recursivamente
+-1: muestra un archivo por linea
+-F: clasifica la salida
